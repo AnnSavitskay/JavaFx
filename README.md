@@ -1,4 +1,4 @@
-# JavaFx
-# Задание к Практической 
+# JavaFX
+# Assignment for the Practical Exercise
 
-1. Создайте простой экран на JavaFX с выводом на экран текса "Hello World"
+1. Create a simple JavaFX screen that displays the text "Hello World"
